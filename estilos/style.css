@@ -79,7 +79,6 @@ form > .campo {
 
 .campo > span {
     color: white;
-    /*background-color: black;*/
     font-size: 2em;
     width: 40px;
     padding: 5px;
@@ -97,7 +96,7 @@ form > .campo {
     height: 100%;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-12px);
+    transform: translateY(-12.5px);
 }
 
 form > input[type=submit] {
